@@ -1,0 +1,11 @@
+D:\Projects\Stacks and Queues - Exercise\10.Simple Text Editor\bin\Debug\netcoreapp2.0\10.Simple Text Editor.deps.json
+D:\Projects\Stacks and Queues - Exercise\10.Simple Text Editor\bin\Debug\netcoreapp2.0\10.Simple Text Editor.runtimeconfig.json
+D:\Projects\Stacks and Queues - Exercise\10.Simple Text Editor\bin\Debug\netcoreapp2.0\10.Simple Text Editor.runtimeconfig.dev.json
+D:\Projects\Stacks and Queues - Exercise\10.Simple Text Editor\bin\Debug\netcoreapp2.0\10.Simple Text Editor.dll
+D:\Projects\Stacks and Queues - Exercise\10.Simple Text Editor\bin\Debug\netcoreapp2.0\10.Simple Text Editor.pdb
+D:\Projects\Stacks and Queues - Exercise\10.Simple Text Editor\obj\Debug\netcoreapp2.0\10.Simple Text Editor.csprojResolveAssemblyReference.cache
+D:\Projects\Stacks and Queues - Exercise\10.Simple Text Editor\obj\Debug\netcoreapp2.0\10.Simple Text Editor.csproj.CoreCompileInputs.cache
+D:\Projects\Stacks and Queues - Exercise\10.Simple Text Editor\obj\Debug\netcoreapp2.0\10.Simple Text Editor.AssemblyInfoInputs.cache
+D:\Projects\Stacks and Queues - Exercise\10.Simple Text Editor\obj\Debug\netcoreapp2.0\10.Simple Text Editor.AssemblyInfo.cs
+D:\Projects\Stacks and Queues - Exercise\10.Simple Text Editor\obj\Debug\netcoreapp2.0\10.Simple Text Editor.dll
+D:\Projects\Stacks and Queues - Exercise\10.Simple Text Editor\obj\Debug\netcoreapp2.0\10.Simple Text Editor.pdb

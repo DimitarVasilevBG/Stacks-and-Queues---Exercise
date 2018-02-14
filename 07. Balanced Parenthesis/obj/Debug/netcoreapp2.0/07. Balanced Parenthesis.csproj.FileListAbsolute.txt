@@ -1,0 +1,11 @@
+D:\Projects\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\netcoreapp2.0\07. Balanced Parenthesis.deps.json
+D:\Projects\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\netcoreapp2.0\07. Balanced Parenthesis.runtimeconfig.json
+D:\Projects\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\netcoreapp2.0\07. Balanced Parenthesis.runtimeconfig.dev.json
+D:\Projects\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\netcoreapp2.0\07. Balanced Parenthesis.dll
+D:\Projects\Stacks and Queues - Exercise\07. Balanced Parenthesis\bin\Debug\netcoreapp2.0\07. Balanced Parenthesis.pdb
+D:\Projects\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\netcoreapp2.0\07. Balanced Parenthesis.csprojResolveAssemblyReference.cache
+D:\Projects\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\netcoreapp2.0\07. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+D:\Projects\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\netcoreapp2.0\07. Balanced Parenthesis.AssemblyInfoInputs.cache
+D:\Projects\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\netcoreapp2.0\07. Balanced Parenthesis.AssemblyInfo.cs
+D:\Projects\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\netcoreapp2.0\07. Balanced Parenthesis.dll
+D:\Projects\Stacks and Queues - Exercise\07. Balanced Parenthesis\obj\Debug\netcoreapp2.0\07. Balanced Parenthesis.pdb

@@ -1,0 +1,11 @@
+D:\Projects\Stacks and Queues - Exercise\02. Basic Stack Operations\bin\Release\netcoreapp2.0\02. Basic Stack Operations.deps.json
+D:\Projects\Stacks and Queues - Exercise\02. Basic Stack Operations\bin\Release\netcoreapp2.0\02. Basic Stack Operations.runtimeconfig.json
+D:\Projects\Stacks and Queues - Exercise\02. Basic Stack Operations\bin\Release\netcoreapp2.0\02. Basic Stack Operations.runtimeconfig.dev.json
+D:\Projects\Stacks and Queues - Exercise\02. Basic Stack Operations\bin\Release\netcoreapp2.0\02. Basic Stack Operations.dll
+D:\Projects\Stacks and Queues - Exercise\02. Basic Stack Operations\bin\Release\netcoreapp2.0\02. Basic Stack Operations.pdb
+D:\Projects\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Release\netcoreapp2.0\02. Basic Stack Operations.csprojResolveAssemblyReference.cache
+D:\Projects\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Release\netcoreapp2.0\02. Basic Stack Operations.csproj.CoreCompileInputs.cache
+D:\Projects\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Release\netcoreapp2.0\02. Basic Stack Operations.AssemblyInfoInputs.cache
+D:\Projects\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Release\netcoreapp2.0\02. Basic Stack Operations.AssemblyInfo.cs
+D:\Projects\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Release\netcoreapp2.0\02. Basic Stack Operations.dll
+D:\Projects\Stacks and Queues - Exercise\02. Basic Stack Operations\obj\Release\netcoreapp2.0\02. Basic Stack Operations.pdb

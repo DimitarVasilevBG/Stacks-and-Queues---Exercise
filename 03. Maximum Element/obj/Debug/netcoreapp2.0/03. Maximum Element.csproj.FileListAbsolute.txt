@@ -1,0 +1,10 @@
+D:\Projects\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.deps.json
+D:\Projects\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.runtimeconfig.json
+D:\Projects\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.runtimeconfig.dev.json
+D:\Projects\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.dll
+D:\Projects\Stacks and Queues - Exercise\03. Maximum Element\bin\Debug\netcoreapp2.0\03. Maximum Element.pdb
+D:\Projects\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.csproj.CoreCompileInputs.cache
+D:\Projects\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.AssemblyInfoInputs.cache
+D:\Projects\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.AssemblyInfo.cs
+D:\Projects\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.dll
+D:\Projects\Stacks and Queues - Exercise\03. Maximum Element\obj\Debug\netcoreapp2.0\03. Maximum Element.pdb
